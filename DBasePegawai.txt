@@ -1,0 +1,14 @@
+Nama: Ridwan
+No: 12345
+Jabatan: Pemilik
+
+Nama: Budi
+No: 12346
+Jabatan: Kasir
+
+Nama: Santi
+No: 12347
+Jabatan: Admin
+
+END
+
